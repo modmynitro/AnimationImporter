@@ -1,0 +1,12 @@
+{
+  "name": "com.jtoikka.asepriteimporter",
+  "displayName": "Aseprite Importer",
+  "version": "0.0.1",
+  "unity": "2017.1",
+  "description": "Tools for importing Aseprite animations",
+  "keywords": [
+      "aseprite",
+      "unity"
+  ],
+  "category": "Unity"
+}
